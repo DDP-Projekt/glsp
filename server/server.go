@@ -3,8 +3,8 @@ package server
 import (
 	"time"
 
+	"github.com/DDP-Projekt/glsp"
 	"github.com/tliron/commonlog"
-	"github.com/tliron/glsp"
 )
 
 var DefaultTimeout = time.Minute

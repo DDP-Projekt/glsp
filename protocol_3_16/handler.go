@@ -5,7 +5,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/tliron/glsp"
+	"github.com/DDP-Projekt/glsp"
 )
 
 type Handler struct {
